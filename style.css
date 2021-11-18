@@ -1,34 +1,41 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
 p {
+  font-size: 15px;
 
-  font-family: 'Poppins', sans-serif;
+
 
   line-height: 1.0;
   
-  font-size: 15px;
+  
   
   text-align : justify;
+  background-size: cover;
+  -webkit-background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 
   background: url(FB_IMG_16372354734549347.jpg);
 
+  background-attachment: fixed;
   -webkit-background-clip: text;
 
-  background-attachment: fixed;
+  
 
-  background-repeat: no-repeat;
+  
 
   -webkit-text-fill-color: rgba(255, 255, 255, 0);
 
-  background-size: cover;
   
-  -webkit-background-size: cover;
+  
+  
 
-  background-position: center;
+  
 
 }
 
 body {
+  
   margin: 0;
   
   padding: 0;
@@ -37,14 +44,16 @@ body {
   
   max-height: 1920px;
   
+  font-family: 'Poppins', sans-serif;
+  
   display: flex;
   
   align-items: center;
   
   justify-content: center;
 
-  background: rgb(2, 2, 2);
-
   height: 1920px;
+
+  background: rgb(2, 2, 2);
 
 }
