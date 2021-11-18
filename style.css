@@ -10,7 +10,7 @@ p {
   
   text-align : justify;
 
-  background: url(FB_IMG_16372321561989533.jpg);
+  background: url(FB_IMG_16372354734549347.jpg);
 
   -webkit-background-clip: text;
 
@@ -33,7 +33,7 @@ body {
   
   padding: 0;
   
-  max-width: 500px;
+  max-width: 1920px;
   
   max-height: 1920px;
   
@@ -45,6 +45,6 @@ body {
 
   background: rgb(2, 2, 2);
 
-  height: 100vh;
+  height: 300vh;
 
 }
