@@ -6,6 +6,8 @@ p {
 
   line-height: 1.0;
   
+  font-size: 15px;
+  
   text-align : justify;
 
   background: url(FB_IMG_16372321561989533.jpg);
@@ -31,6 +33,10 @@ body {
   
   padding: 0;
   
+  max-width: 500px;
+  
+  max-height: 1920px;
+  
   display: flex;
   
   align-items: center;
@@ -39,6 +45,6 @@ body {
 
   background: rgb(2, 2, 2);
 
-  overflow: hidden;
+  height: 100vh;
 
 }
